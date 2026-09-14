@@ -1,0 +1,3 @@
+PathPal OCR Demo
+Obstacle ahead - Distance: 12 meters
+Crosswalk detected
